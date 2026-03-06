@@ -2,6 +2,7 @@
 En este repositorio voy a documentar y mostrar mi progreso montando **4 proyectos** que van a ir interconectandose entre ellos mismos.
 Los proyectos van a ser:
 1. Linux + Documentación personal
+
     -En el aprenderé a usar linux avanzado, adminisración básica y avanzada, bash scripting y gestión de servicios y logs.
     - Por lo que iré subiendo la documentación a mi repositorio de *'Mis_docus_y_manuales'*, pero el proceso del homelab estará aquí totalmente documentado
 2. Infraestructura Interconectada
